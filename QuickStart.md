@@ -88,7 +88,7 @@ Label Studio Version: 0.8.0.post0-py3
 
 	```
 	pip install —upgrade pip
-	pip install lxml‑4.5.2‑cp37‑cp37m‑win_amd64.whl
+	pip install lxml‑4.5.2‑cp38‑cp38m‑win_amd64.whl
 	pip install label-studio
 	```
 * Успешный запуск
