@@ -65,9 +65,11 @@ Label Studio Version: 0.8.0.post0-py3
 * При установке C++ Build Tools было внесено одно изменение - установлена галочка "MSVC v140 - VS 2015 C++ build tools (v14.0)":
 ![](https://drive.google.com/uc?export=download&id=17-X6dx3c0JEX7_y3kV6dpBwnKsyc2xbk)
 
+* Был скачан пакет lxml‑4.5.2‑cp37‑cp37m‑win_amd64.whl для Python 3.7
+
 ```
 pip install —upgrade pip
-pip install lxml‑4.5.2‑cp37‑cp37m‑win_amd64.whl (предварительно скачав)
+pip install lxml‑4.5.2‑cp37‑cp37m‑win_amd64.whl
 pip install label-studio
 ```
 ![](https://drive.google.com/uc?export=download&id=1C43DRxc3YCl7WUesqbTQZeUayCws1Ya-)
