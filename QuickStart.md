@@ -72,6 +72,7 @@ pip install —upgrade pip
 pip install lxml‑4.5.2‑cp37‑cp37m‑win_amd64.whl
 pip install label-studio
 ```
+* Успешный запуск
 ![](https://drive.google.com/uc?export=download&id=1C43DRxc3YCl7WUesqbTQZeUayCws1Ya-)
 
-* Успешный запуск
+
