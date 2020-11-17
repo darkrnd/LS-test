@@ -1,8 +1,12 @@
 # Установка Label Studio, руководствуясь разделом [Quickstart](https://labelstud.io/guide/#Quickstart)
 
 Operating System: Windows 10 Home 64-bit (10.0, Build 19041) (19041.vb_release.191206-1406)
-Screen Resolution: 1920x1080 
+
+Screen Resolution: 1920x1080
+
 Label Studio Version: 0.8.0.post0-py3
+
+
 
 
 1.  Попытка установки, используя последнюю доступную версию Python 3.9.0 (на момент 17.11.2020)(Неудачно)
