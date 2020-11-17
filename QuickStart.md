@@ -25,8 +25,7 @@ Label Studio Version: 0.8.0.post0-py3
 * Было бы неплохо указать в инструкции данное требование и разместить ссылку.
 * По ссылке, указанной в ошибке найти именно Build Tools, а не весь Visual Studio оказалось неочевидным, пришлось искать решение в Google.
 * Установщик был взят с [https://visualstudio.microsoft.com/visual-cpp-build-tools/](https://visualstudio.microsoft.com/visual-cpp-build-tools/)
-* При установке пакет требует выбрать необходимый состав, что на первый взгляд
-* выглядит непросто:
+* При установке пакет требует выбрать необходимый состав, что на первый взгляд выглядит непросто:
 
 ![](https://lh6.googleusercontent.com/p3VtUVtdD2sp-l-vwJph8DsWjl7kbx6LjfJhzsmemO2zP3shtPNrStoxk2Z7bMDqUriT2caKSS-zwpthiqGyvMxDYsnHiiTazicRuEA8FGiXXzVsbiVmLJm0h7g6fPx-Yn-Xh8ym)
 
@@ -64,6 +63,7 @@ Label Studio Version: 0.8.0.post0-py3
 2. Попытка установки, используя версию Python 3.7.9 (Удачно)
 
 * При установке C++ Build Tools было внесено одно изменение - установлена галочка "MSVC v140 - VS 2015 C++ build tools (v14.0)":
+
 ![](https://drive.google.com/uc?export=download&id=17-X6dx3c0JEX7_y3kV6dpBwnKsyc2xbk)
 
 * Был скачан пакет lxml‑4.5.2‑cp37‑cp37m‑win_amd64.whl для Python 3.7
@@ -74,6 +74,7 @@ Label Studio Version: 0.8.0.post0-py3
 	pip install label-studio
 	```
 * Успешный запуск
+
 ![](https://drive.google.com/uc?export=download&id=1C43DRxc3YCl7WUesqbTQZeUayCws1Ya-)
 
 ---
