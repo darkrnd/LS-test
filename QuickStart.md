@@ -49,7 +49,9 @@ Label Studio Version: 0.8.0.post0-py3
 
 	Building wheel for cymem (setup.py) ... error
 	ERROR: Command errored out with exit status 1:
+	
 	...
+	
 	Building wheel for Pillow (setup.py) ... error
 	ERROR: Command errored out with exit status 1:
 	```
