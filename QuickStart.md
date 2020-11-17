@@ -1,4 +1,5 @@
 
+
 # Установка Label Studio, руководствуясь разделом [Quickstart](https://labelstud.io/guide/#Quickstart)
 
 Operating System: Windows 10 Home 64-bit (10.0, Build 19041) (19041.vb_release.191206-1406)  
@@ -67,12 +68,24 @@ Label Studio Version: 0.8.0.post0-py3
 
 * Был скачан пакет lxml‑4.5.2‑cp37‑cp37m‑win_amd64.whl для Python 3.7
 
-```
-pip install —upgrade pip
-pip install lxml‑4.5.2‑cp37‑cp37m‑win_amd64.whl
-pip install label-studio
-```
+	```
+	pip install —upgrade pip
+	pip install lxml‑4.5.2‑cp37‑cp37m‑win_amd64.whl
+	pip install label-studio
+	```
 * Успешный запуск
 ![](https://drive.google.com/uc?export=download&id=1C43DRxc3YCl7WUesqbTQZeUayCws1Ya-)
 
+---
 
+2. Попытка установки, используя версию Python 3.8.6 (Удачно)
+* Установка производилась на другой машине с ОС Windows 7 Enterprise (x64)
+* Все действия аналогичны предыдущей установке
+* Незначительным и логичным отличием является лишь установка пакета lxml для Python 3.8
+
+	```
+	pip install —upgrade pip
+	pip install lxml‑4.5.2‑cp37‑cp37m‑win_amd64.whl
+	pip install label-studio
+	```
+* Успешный запуск
