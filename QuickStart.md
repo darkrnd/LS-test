@@ -1,13 +1,14 @@
+
 # Установка Label Studio, руководствуясь разделом [Quickstart](https://labelstud.io/guide/#Quickstart)
 
-Operating System: Windows 10 Home 64-bit (10.0, Build 19041) (19041.vb_release.191206-1406)\
-Screen Resolution: 1920x1080\
+Operating System: Windows 10 Home 64-bit (10.0, Build 19041) (19041.vb_release.191206-1406)  
+Screen Resolution: 1920x1080  
 Label Studio Version: 0.8.0.post0-py3
 
 
 
 
-1.  Попытка установки, используя последнюю доступную версию Python 3.9.0 (на момент 17.11.2020)(Неудачно)
+1. Попытка установки, используя последнюю доступную версию Python 3.9.0 (на момент 17.11.2020)(Неудачно)
     
 * По указанной в [https://labelstud.io/guide/#Prerequisites](https://labelstud.io/guide/#Prerequisites) ссылке [https://www.lfd.uci.edu/~gohlke/pythonlibs/#lxml](https://www.lfd.uci.edu/~gohlke/pythonlibs/#lxml) был скачан пакет lxml‑4.6.1‑cp39‑cp39‑win_amd64.whl
 	```
@@ -56,3 +57,19 @@ Label Studio Version: 0.8.0.post0-py3
 * Поиски решения проблемы в Google не принесли результатов. Установка разных версий библиотек так же не принесла результатов.
 
 * Установка всегда падала. Пришел к выводу, что Label Studio требуются более старые версии библиотек, установка которых уже невозможна на Python, версии 3.9
+
+---
+
+2. Попытка установки, используя версию Python 3.7.9 (Удачно)
+
+* При установке C++ Build Tools было внесено одно изменение - установлена галочка "MSVC v140 - VS 2015 C++ build tools (v14.0)":
+![](https://drive.google.com/uc?export=download&id=17-X6dx3c0JEX7_y3kV6dpBwnKsyc2xbk)
+
+```
+pip install —upgrade pip
+pip install lxml‑4.5.2‑cp37‑cp37m‑win_amd64.whl (предварительно скачав)
+pip install label-studio
+```
+![](https://drive.google.com/uc?export=download&id=1C43DRxc3YCl7WUesqbTQZeUayCws1Ya-)
+
+* Успешный запуск
