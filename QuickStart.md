@@ -9,7 +9,7 @@ Label Studio Version: 0.8.0.post0-py3
 
 
 
-1. Попытка установки, используя последнюю доступную версию Python 3.9.0 (на момент 17.11.2020)(Неудачно)
+1. Попытка установки, используя последнюю доступную версию Python 3.9.0 (на момент 17.11.2020) (Неудачно)
     
 * По указанной в [https://labelstud.io/guide/#Prerequisites](https://labelstud.io/guide/#Prerequisites) ссылке [https://www.lfd.uci.edu/~gohlke/pythonlibs/#lxml](https://www.lfd.uci.edu/~gohlke/pythonlibs/#lxml) был скачан пакет lxml‑4.6.1‑cp39‑cp39‑win_amd64.whl
 	```
