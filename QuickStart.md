@@ -34,7 +34,7 @@ Label Studio Version: 0.8.0.post0-py3
 	pip install label-studio
 	```
 
-* На выходе множественные ошибки, невозможность собрать Pillow
+* На выходе множественные ошибки, невозможность собрать blis, cymem, Pillow
 	```
 	python -m pip install --upgrade pip
 	python -m pip install --upgrade Pillow
