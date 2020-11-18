@@ -66,7 +66,7 @@ Label Studio Version: 0.8.0.post0-py3
 
 * При установке C++ Build Tools было внесено одно изменение - установлена галочка "MSVC v140 - VS 2015 C++ build tools (v14.0)":
 
-![](https://drive.google.com/uc?export=download&id=17-X6dx3c0JEX7_y3kV6dpBwnKsyc2xbk)
+![](https://lh3.googleusercontent.com/fife/ABSRlIr5y7Mdn4Q-vtQf8WUKCjrCWQEOYrSfHLYf1FliUtEV3Ljo-7aJZZKN4EvtVYS0KWxI87MjAWB-49JbXQaJTbMQ2Y2d8Lz3RlRUIQw_1QbyPYREmqX6ieWHQfp3hptxyTa5DdUrPpxG4HI4RIntbspK0-5udt2buE1y_wzBLZGfKLuU8AtVfkAutcfxcwHLiq5Fx9ZvEAepPpnDZMeAJeADFTioK2A7F0JZb25jsRd6FCBZOYqFyw2xl_4oa3pA5_bDVSZUCwmIvr-JNHGD1eCNhbsZN0k0LWEYlU--Yr_43iuVmrQ1-5IYvcxR3jZKKBdi5jHuFc8f9f1XC_xl9LiNdzz1UVso7K_1GQJsMHy898yAhpgIXrpDctUKEvJ1iXzd5WLOL-ozvLg2fK4DIgiNCu5EvQF2fAWbAdUOYNb-x0av252B2naXFVQAyy6TLA-1crfMqJ1g8ThoCp1QB78wLMa22Vm8e2CNbHteMJkUTnNXrOIkirBN1o5S3QqJZFH9rJVKPwYpKdayUU5FpUbGKsVDzAWFRZC2BWhX4CCx_h07S77MtZHb0TBFTeRA1yXe_HiB9nzb-7hTNeQ3lYlrrjvL65eYBJTO7ECvJ2sQqNenUwxKOKZxMJBELb5WS9GYbvweDQ5RCS0nH3wWKPgCgqw4Njn9_tHRyurqvIjBFCp7dR0SubSzQ-m-IVDryll5JPnME4n4Nlam1Xzkp0ZZSRXxAMiwDQ=w1437-h969-ft)
 
 * Был скачан пакет lxml‑4.5.2‑cp37‑cp37m‑win_amd64.whl для Python 3.7
 
@@ -77,7 +77,7 @@ Label Studio Version: 0.8.0.post0-py3
 	```
 * Успешный запуск
 
-![](https://drive.google.com/uc?export=download&id=1C43DRxc3YCl7WUesqbTQZeUayCws1Ya-)
+![](https://lh3.googleusercontent.com/fife/ABSRlIpvHgw3qNRo_wVk6d5w1KXUdMv2R_Rapb9n0Sh5ScOCrAFpqmUe2VGzww0QDSYF7sRBBx1UCr0QOWTDJVram6o_yie6k2HBG2g0tZbxuJcEXF1FKtszu7UZFqclGRzv2_D_nMC2xs9TTw_2NWTnNs4Q8pzdtULGFaITTg2RnjRYIurffVRLBbbu6LaLulKBr5NdrHBp58_qCMyyknt1NWFkZrIFUboVFzyFGsoiByrWvOTC2LQAmHgP9nser0pMsPFyNIaUM-xgsw0mkVxOdSk_DO4sxtfbzjRSwNLRXJvgvpf79Q4O7f_sj4uCk4xsImIoCoUEnSVLfDkvACxRqrOyJV4Qjy8HZIm4nG_MdyOKTGZkFJDNZWQYWAxtx44wHS7Eh9vDgntehjLOFj66YYXizkL4VSePAjHKpW16S2ERH5ZdDNr9U4ygLljDGttXvsLKITrdB1NZyWi4fFyv_1QS_TnNFLVAlUC9hANXYXECmKa0Rbk-E_94X5IO-f2mhX0eOZQKaYTIdogjXp-iWrZwDtGSk5cpVblsM7gl6Ak8OMUNf8-Sn1R7FOb7LlzR2lWNlGiX4mYuqZlcTyhrITNyhiZsMBJPURvdyi6Q7RDKmkJdB5C92-JvbiminxJjvSC0Qq8n1FQaSdwYuWrPouk_TesQ4p49fJNXfz3O7_Oy1qlJVB1YyE98YH_3GgRweTTVupJfnnP6TY_x19vl4-SXkVRr4ASn5Q=w10000-h10000-ft)
 
 ---
 
