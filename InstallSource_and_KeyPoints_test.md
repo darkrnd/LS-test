@@ -1,6 +1,6 @@
 # Установка Label Studio из исходного кода и проверка производительности KeyPoints(>=400)
 
-Python version 3.8.6
+Python version 3.7.9
 1. Установка
 * Установка производится на основе [https://labelstud.io/guide/index.html#Running-from-source](https://labelstud.io/guide/index.html#Running-from-source)
 
