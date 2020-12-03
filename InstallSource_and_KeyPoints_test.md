@@ -22,5 +22,5 @@ Python version 3.7.9
 ---
 2. Проверка производительности KeyPoints (>=400)
 * После установки примерно 100 шт, интерфейс начинает заметно подвисать. Использовался браузер Chrome под Windows 7 (x64) на Core i7 2.8GHz (8 ядер), 4GB RAM
-	Можно увидеть результат работы на видео: [https://github.com/darkrnd/LS-test/blob/main/ls-keypoints400.mkv](https://github.com/darkrnd/LS-test/blob/main/ls-keypoints400.mkv?raw=true)
+* Результат работы  можно увидеть на видео: [https://github.com/darkrnd/LS-test/blob/main/ls-keypoints400.mkv](https://github.com/darkrnd/LS-test/blob/main/ls-keypoints400.mkv?raw=true)
 * Заметный лаг уже наступает примерно с 30-й секунды видео, с добавлением новых точек лаг усиливается - временно зависает вся вкладка браузера
